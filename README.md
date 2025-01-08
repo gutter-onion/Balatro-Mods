@@ -17,9 +17,11 @@ chmod +x linux-install.sh
 
 <b>Windows install</b>
 
-Windows will, of course, detect this as a virus/threat.
-All files installed and downloaded here are open source, and you are free to
-look at the code. (links below).
+These Mods use code injection to work. And Windows will treat this as a virus/threat. You will need to disable any
+Anti-Virus software you may have, as well as follow the directions below to temporarily disable Windows Defender.
+
+<B>All files installed and downloaded here are open source, and you are free to
+look at the code. (links below).</B>
 
 
 Download both files named [windows-run-first.ps1](https://github.com/gutter-onion/Balatro-Mods/releases/download/mods/windows-run-first.ps1) and [windows-install.ps1](https://github.com/gutter-onion/Balatro-Mods/releases/download/mods/windows-install.ps1)
