@@ -20,7 +20,7 @@ chmod +x linux-install.sh
 These Mods use code injection to work. And Windows will treat this as a virus/threat. You will need to disable any
 Anti-Virus software you may have, as well as follow the directions below to temporarily disable Windows Defender.
 
-<B>All files installed and downloaded here are open source, and you are free to
+<B>All files installed and downloaded here, as well as by the script are open source and safe to use. Feel free to
 look at the code. (links below).</B>
 
 
