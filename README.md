@@ -4,7 +4,7 @@ Install script for Mod pack of CardSauce v.1.2.1 and Mika's Mod.
 To Download, click "Releases" on the right side of the page here, and select your Operating System.
 Or click the links available here in the README.md
 
-<b>Arch Linux Install</b>
+<b>Arch Linux Install</b> (Should work on steam deck as well in Desktop Mode)
 
 Download [linux-install.sh](https://github.com/gutter-onion/Balatro-Mods/releases/download/mods/linux-install.sh) from the releases page. Open a terminal and navigate to
 the directory where it was downloaded. 
